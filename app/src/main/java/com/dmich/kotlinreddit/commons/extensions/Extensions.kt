@@ -1,7 +1,6 @@
 @file:JvmName("ExtensionsUtils")
 
-package com.dmich.kotlinreddit.commons
-
+package com.dmich.kotlinreddit.commons.extensions
 
 import android.view.LayoutInflater
 import android.view.View
